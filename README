@@ -1,0 +1,3 @@
+Image with /bin/true, /bin/pause, /bin/echo and /bin/mkdir commands.
+
+Built with diet-libc and has total size 16kB.
